@@ -17,3 +17,4 @@ In these lessons, we'll cover:
 In this section, we'll explain how we can leverage the power of Ruby to define
 basic classes with large reusability and smaller subclasses for more
 fine-grained, detailed behaviors.
+puts
